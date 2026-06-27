@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63554,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/1-8s9_t85wwr4.js","/_next/static/chunks/0-cymbzvkii6e.js","/_next/static/chunks/3i_s9xz2tzx41.js"],"default"]
+3:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/1-8s9_t85wwr4.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"caseId":"case-2","sources":[{"source":"懂车帝","count":280},{"source":"汽车之家","count":250},{"source":"车质网","count":180},{"source":"微博","count":113}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0-cymbzvkii6e.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3i_s9xz2tzx41.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fxjleew_qL6aodDTFtkgA"}
+5:null
